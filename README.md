@@ -86,4 +86,4 @@ Operational Decisions: Use booking trends to improve driver availability and rid
 6. Screenshot / Demos
 
 Show what the dashboard looks like. 
-Example: !Dashboard Preview[(https://github.com/Thunderblast786/Ola-Data-Analytics-/blob/main/Overall%20Performance%20Page1.png)]
+Example: [!Dashboard Preview](https://github.com/Thunderblast786/Ola-Data-Analytics-/blob/main/Overall%20Performance%20Page1.png)
