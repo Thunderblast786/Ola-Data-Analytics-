@@ -1,5 +1,4 @@
-# Ola-Data-Analytics
-🚕 OLA Data Analytics Dashboard
+# Ola Data Analytics Dashboard
 1. Project Title / Headline
 
 🚕 OLA Data Analytics Dashboard: Ride, Revenue & Customer Insights
