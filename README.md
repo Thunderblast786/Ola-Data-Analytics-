@@ -82,3 +82,8 @@ Cancellation Reduction: Understand major cancellation reasons and improve servic
 Customer Satisfaction: Track ratings and identify areas for improving customer experience.
 
 Operational Decisions: Use booking trends to improve driver availability and ride allocation.
+
+6. Screenshot / Demos
+
+Show what the dashboard looks like. 
+Example: ![Dashboard Preview](https://github.com/Thunderblast786/Mobile-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
